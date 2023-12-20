@@ -12,7 +12,7 @@ function Home() {
         <button className='All'>See all lists</button>
       </Link>
     </div>
-  );
+  )
 }
 
 export default Home
